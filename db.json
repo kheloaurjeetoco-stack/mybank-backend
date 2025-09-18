@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "username": "demo",
-      "password": "demo"
+      "username": "text",
+      "password": "text"
     }
   ],
   "accounts": {
-    "demo": {
+    "text": {
       "balance": 1000,
       "transactions": []
     }
