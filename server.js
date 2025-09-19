@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 
 const app = express();
-app.use(cors());
+app.use(());
 app.use(express.json());
 
 const DB_FILE = path.resolve("./db.json");
